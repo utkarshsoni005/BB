@@ -1,4 +1,4 @@
-### SSH FOR WINDOWS
+# SSH FOR WINDOWS
 
 1. Open https://github.com/PowerShell/Win32-OpenSSH/releases in any browser.
 2. Click on the latest version of ssh.
